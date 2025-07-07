@@ -16,7 +16,7 @@ You can verify the container is running with:
 ```bash
 docker ps
 ```
-Screenshot:
+![Docker Run Screenshot](docker%20run.png)
 
 ### 2. Connect to the VoltDB Container and Start SQL Command Line
 
@@ -28,7 +28,7 @@ Then start the VoltDB SQL command line tool:
 ```bash
 sqlcmd
 ```
-Screenshot:
+![SQL Command Screenshot](sql%20command.png)
 
 ### 3. Create a Table and Insert Data
 Inside the SQL command line, you can now create a table and insert data:
